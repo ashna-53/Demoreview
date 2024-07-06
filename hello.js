@@ -1,6 +1,6 @@
-let x = Myfunction(4, 3);
+let x = myFunction(4, 3);
 
-function Myfunction(A, B) {
+function myFunction(a,b) {
 // Function returns the product of a and b
-  return A * B;
+  return a * b;
 }
